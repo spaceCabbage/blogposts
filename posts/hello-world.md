@@ -49,4 +49,4 @@ __Bold Text__
 link are like this [Duck Duck Go](https://duckduckgo.com)
 
 ## Images
-![The San Juan Mountains are beautiful!](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://mdg.imgix.net/assets/images/san-juan-mountains.jpg "San Juan Mountains")
