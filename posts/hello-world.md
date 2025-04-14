@@ -16,7 +16,7 @@ This is why i decided on this approach.
 
 Im using a git repo *stored on github's servers, all for free* and im maintaining an _index_ of all my blog posts written, also saved to that repo. All i have to do is write my blog posts in markdown format, _using neovim_, include them in my `index.json` with a title and a slug and push a commit
 
-```json
+```js
 // example blog index
 [
     {
