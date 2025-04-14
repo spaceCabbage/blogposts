@@ -1,3 +1,6 @@
 [
-	"hello-world.md"
+	{
+		"slug": "hello-world.md",
+		"title": "Hello World"
+	}
 ]
