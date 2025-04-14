@@ -33,3 +33,20 @@ console.log("is this highlighted?")
 - as a `<ol>`
 
 ### This is achieved using `markdown-it`, `front-matter` and `markdow-it-prism` (for code highlighting)
+
+
+# I now want to try all the styles of text in `markdown-it` to see if i styled them correctly
+## bold
+__Bold Text__  
+## italic text
+*Italic text*
+## blockquotes
+> here is a multi  
+> line blockquote
+## hr
+---
+## links
+link are like this [Duck Duck Go](https://duckduckgo.com)
+
+## Images
+![The San Juan Mountains are beautiful!](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
