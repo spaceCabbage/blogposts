@@ -2,9 +2,5 @@
 	{
 		"slug": "hello-world",
 		"title": "Hello World"
-	},
-	{
-		"slug": "code-blocks",
-		"title": "Rendering Code Blocks"
 	}
 ]
