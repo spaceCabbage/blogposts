@@ -2,7 +2,7 @@
 title: "Hello World"
 slug: "hello-world"
 date: "2025-04-14"
-tags: []
+tags: ["first post", "development", "web design"]
 cover: 
 ---
 
