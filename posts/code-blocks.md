@@ -10,3 +10,15 @@ this will require me to pick a theme, _write some code_ and even make a git comm
 ```js
 console.log("is this highlighted?")
 ```
+
+## I will now attempt a list
+
+1. this is
+2. a numbered lis
+3. it shoudl render
+4. as a `<ul>`
+
+- and this is a 
+- bulleted list
+- which should render
+- as a `<ol>`
