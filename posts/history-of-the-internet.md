@@ -18,6 +18,16 @@ _From Cold‑War packet dreams to QUIC‑powered streams — now with deeper div
 > — you, tomorrow morning
 
 ---
+# History of the Internet
+
+Long before TCP/IP packets and OSI layers, there was ARPANET.  
+– **1969**: ARPANET goes live connecting UCLA‒SRI‒UCSB‒Utah.  
+– **1973**: Vint Cerf & Bob Kahn publish the first TCP spec.  
+– **1983**: “Flag day” – ARPANET fully switches from NCP to TCP/IP.  
+– **1989**: Tim Berners-Lee invents the World Wide Web at CERN;  
+– **1993**: Mosaic browser popularizes HTML;  
+– **1995–2000**: Commercial ISPs, broadband, and the dot-com boom…  
+
 
 ## Part I — Chronology of Breakthroughs
 
