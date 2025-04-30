@@ -9,8 +9,10 @@ cover:
 # Doon't Freak Out
 > But welcome to my new blog
 
+
 this is my new space where i will document my journey as a self-taught dev and wannabe blogger
 
+# Building this Blog
 i could not find a single `cms` that i liked, i wanted something simple, free, elegant. I dont really care about `SSG` or `SSR`, i just wanted to write stuff and put it on the internet.
 This is why i decided on this approach.
 
